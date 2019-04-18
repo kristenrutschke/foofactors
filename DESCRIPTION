@@ -1,0 +1,12 @@
+Package: foofactors
+Title: A silly package to work with factors
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kristen",
+           family = "Rutschke",
+           role = c("aut", "cre"),
+           email = "kristenrutschke@yahoo.com")
+Description: Do some fun things with factors
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
