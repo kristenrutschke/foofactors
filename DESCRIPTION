@@ -6,7 +6,15 @@ Authors@R:
            family = "Rutschke",
            role = c("aut", "cre"),
            email = "kristenrutschke@yahoo.com")
-Description: Do some fun things with factors
-License: What license it uses
+Description: Do some fun things with factors.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/kristenrutschke/foofactors
+BugReports: https://github.com/kristenrutschke/foofactors/issues
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Imports: 
+    forcats
+Suggests: 
+    testthat
